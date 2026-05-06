@@ -1,0 +1,10 @@
+# 当前基础版本不强制依赖第三方库
+# 后续如接入 API、PDF、Word、Excel，可逐步启用：
+# openai
+# python-dotenv
+# pydantic
+# fastapi
+# uvicorn
+# pandas
+# python-docx
+# pypdf

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+data/
+uploads/
+outputs/
+private/
+secrets/
+*.docx
+*.pdf
+*.xlsx
+.DS_Store
+.idea/
+.vscode/
